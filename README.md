@@ -1,3 +1,14 @@
+# React Multi-Theme Switcher App
+
+This project is a React-based web application with a theme switcher that allows users to toggle between three distinct themes. It uses Context API for theme management, Tailwind CSS for styling, and fetches product data from the [FakeStore API](https://fakestoreapi.com/products). The app also demonstrates routing across multiple pages (Home, About, Contact).
+
+## How to Run
+
+1. **Clone the repository**
+   git clone https://github.com/your-username/multi-theme-switcher-app.git
+   cd multi-theme-switcher-app
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
