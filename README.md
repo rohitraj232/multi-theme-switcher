@@ -4,18 +4,18 @@ This project is a React-based web application with a theme switcher that allows 
 
 ## How to Run
 
-1. **Clone the repository**
-   git clone https://github.com/rohitraj232/multi-theme-switcher
-   cd multi-theme-switcher
+1. **Clone the repository**  
+   git clone https://github.com/rohitraj232/multi-theme-switcher  
+   cd multi-theme-switcher  
 
-2. **Install dependencies**
-   npm install
+2. **Install dependencies**  
+   npm install  
 
-3. **Run the development server**
-  npm run dev
+3. **Run the development server**  
+  npm run dev  
 
-4. **Open in browser**
-   Navigate to the URL shown in the terminal, usually http://localhost:5173
+4. **Open in browser**  
+   Navigate to the URL shown in the terminal, usually http://localhost:5173  
 
 
 
